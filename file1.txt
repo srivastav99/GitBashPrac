@@ -1,0 +1,10 @@
+ Volume in drive D is DATA
+ Volume Serial Number is 7EEA-BD16
+
+ Directory of D:\GitHub\Gitbashprac
+
+02-12-2023  10:05    <DIR>          .
+02-12-2023  10:00    <DIR>          ..
+02-12-2023  10:05                 0 file1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  344,818,483,200 bytes free
